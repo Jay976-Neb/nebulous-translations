@@ -1056,13 +1056,13 @@
     <string name="Rainbow_Holes">Mga Bahagharing Holes</string>
     <string name="LIFE_STEAL">AGAWAN NG BUHAY</string>
     <string name="Kicked_From_Game_">Ikaw ay Natanggal sa laro!</string>
-    <string name="Conquest">Conquest</string>
+    <string name="Conquest">pananakop</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Ipanalo ang pinakahuling misyon sa kampanya.</string>
     <string name="Collected_">Mga Na-Collect:</string>
     <string name="Collisions_">Mga Collisions:</string>
     <string name="Absorbed_">Mga Nakuha:</string>
     <string name="team_warning">Ang pakikipangkat sa manlalaro na hindi mo naman ka-pangkat ay magre-resulta sa isang ban!</string>
-    <string name="Search_Filter">Search Filter</string>
+    <string name="Search_Filter">Filter ng Paghahanap</string>
     <string name="Received_">Natanggap:</string>
     <string name="Opponent_Rating_Limit_">Limitadong Rating Limit ng Kalaban:</string>
     <string name="TOGGLE_FAVORITE">I-TOGGLE SA PABORITO</string>
